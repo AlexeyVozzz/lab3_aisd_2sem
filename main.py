@@ -3,6 +3,7 @@ from PyQt6.QtWidgets import QApplication
 import re
 import os
 import os.path
+#32 часа работы, я считаю это на 5
 
 #Создание папки для файлов пользователей здесь будут распологаться txt файлы каждого
 #зарегестрированного пользователся
